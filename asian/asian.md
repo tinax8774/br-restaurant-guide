@@ -1,9 +1,8 @@
 # Bay Ridge Restaurant Guide
 ## Asian
-
 ---
 Select a specific Asian food:
-## Chinese
+## [Chinese](asian/chinese.md)
 ## Japanese
 ## Thai
 ---
